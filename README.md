@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @evlaaa
+- 👋 Hi, I’m @evlaaa :)
 - 👀 I’m interested in Coding with c and python
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C#
+- 
 
 <!---
 evlaaa/evlaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
