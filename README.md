@@ -1,19 +1,19 @@
 🎓 Computer Engineering Student (3rd Year)
 🚀 Passionate about software development & technology
-📍 Istanbul,Türkiye
+ 📍 Istanbul,Türkiye
 
-🛠️ Technologies & Tools
+🛠️ Technologies & Tools: 
 💻 Languages: Python, C, C#
 ⚙️ Frameworks: .NET
 🗄️ Database: SQL Server
 🔧 Tools: Git, GitHub, Visual Studio, VS Code
 
-🌱 Currently Learning
-ASP.NET Core MVC
-Database Optimization
-System Design Basics
+🌱 Currently Learning:
+ASP.NET Core MVC,
+ Database Optimization,
+ System Design Basics
 
-⚡ Fun Fact
+⚡ Fun Fact:
 
 I was part of a university rocket team 🚀 and even served as a team captain, gaining both technical and leadership experience.
 <!---
