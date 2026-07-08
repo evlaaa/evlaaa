@@ -1,21 +1,20 @@
-🎓 Computer Engineering Student (3rd Year)
-🚀 Passionate about software development & technology
- 📍 Istanbul,Türkiye
+Computer Engineering Student (3rd Year)
 
-🛠️ Technologies & Tools: 
-💻 Languages: Python, C, C#
-⚙️ Frameworks: .NET
-🗄️ Database: SQL Server
-🔧 Tools: Git, GitHub, Visual Studio, VS Code
+Interested in Backend Development, Embedded Systems and IoT.
+*Backend & Embedded Software Engineer focused on scalable systems, databases, and IoT applications.*
 
-🌱 Currently Learning:
-ASP.NET Core MVC,
- Database Optimization,
- System Design Basics
+**Tech**
+Python • C • C# • SQL • ASP.NET Core • .NET • SQL Server • MQTT • Git • GitHub
 
-⚡ Fun Fact:
+**Currently Learning**
+System Design • Software Architecture • REST APIs • Database Optimization
 
-I was part of a university rocket team 🚀 and even served as a team captain, gaining both technical and leadership experience.
+**Experience**
+Embedded Software Intern • Former Team Captain of a University Rocket Team • Embedded & IoT Projects
+
+📍 Istanbul, Türkiye
+
+
 <!---
 evlaaa/evlaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
