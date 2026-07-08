@@ -1,6 +1,7 @@
 Computer Engineering Student (3rd Year)
 
 Interested in Backend Development, Embedded Systems and IoT.
+
 *Backend & Embedded Software Engineer focused on scalable systems, databases, and IoT applications.*
 
 **Tech**
